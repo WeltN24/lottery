@@ -1,0 +1,16 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/rcrowley/go-metrics",
+			"revision": "51425a2415d21afadfd55cd93432c0bc69e9598d",
+			"revisionTime": "2016-01-13T15:50:30-08:00"
+		},
+		{
+			"path": "github.com/rcrowley/go-metrics/exp",
+			"revision": "51425a2415d21afadfd55cd93432c0bc69e9598d",
+			"revisionTime": "2016-01-13T15:50:30-08:00"
+		}
+	]
+}
