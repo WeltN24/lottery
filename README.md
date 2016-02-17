@@ -1,3 +1,8 @@
+Lottery
+=======
+
+<img src="http://img.memecdn.com/winning-the-lottery-it-could-have-been-worse-i-guess_c_3237821.jpg" width=400>
+
 DEV:
 
 - install go
